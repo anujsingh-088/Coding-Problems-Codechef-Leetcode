@@ -1,3 +1,3 @@
 # LeetCode-Problems
 
-Solved Questions on leetcode -- solution :wink:
+Practicing Questions on leetcode -- solution :wink:
